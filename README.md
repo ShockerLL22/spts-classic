@@ -5,6 +5,8 @@
 ![spts-classic Image](https://raw.githubusercontent.com/ShockerLL22/spts-classic/refs/heads/main/image.png)
 > [!NOTE] 
 > **This script has 14 physical modules available.**
+
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=ShockerLL22&show_icons=true&theme=dark"
