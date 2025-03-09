@@ -18,3 +18,8 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=ShockerLL22&show_icons=true" />
 </picture>
+# Latest Update Log : 
+> [!NOTE]  
+> - instead of smart made speed calculation 1.0x 1.2x 1.4x etc...
+> - made fist strength farming faster, instead of 200 miliseconds which as wiki fastest, but its remote so it different.
+> - added auto recconect, for every error, it just rejoins, doesnt work in private servers, auto click spawn might bug sometime.
