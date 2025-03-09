@@ -1,8 +1,5 @@
 # spts-classic
-![](https://raw.githubusercontent.com/ShockerLL22/spts-classic/refs/heads/main/image.png)
-
-this script is very good compared to others, i dont really compete or anything i just make this for fun and for myself, u can use it freely.
-soon ill add grim exploit, when i get the stats lol, drop issues, suggestions, for the script.
+![when using this module, make sure you're not in a private server, since cant join private server when no server.](https://raw.githubusercontent.com/ShockerLL22/spts-classic/refs/heads/main/image.png)
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=ShockerLL22&show_icons=true&theme=dark"
