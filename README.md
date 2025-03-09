@@ -13,3 +13,4 @@ soon ill add grim exploit, when i get the stats lol, drop issues, suggestions, f
   <img src="https://github-readme-stats.vercel.app/api?username=ShockerLL22&show_icons=true" />
 </picture>
 https://github.com/ShockerLL22/spts-classic/blob/main/image.png
+![alt text](https://raw.githubusercontent.com/ShockerLL22/spts-classic/refs/heads/main/image.png)
