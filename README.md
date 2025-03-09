@@ -1,7 +1,7 @@
 # spts-classic
 script loadstring
 
-> ```loadstring(game:HttpGet("https://raw.githubusercontent.com/ShockerLL22/spts-classic/refs/heads/main/void.lua"))()```
+> ``````loadstring(game:HttpGet("https://raw.githubusercontent.com/ShockerLL22/spts-classic/refs/heads/main/void.lua"))()``````
 
 > [!WARNING]
 > When using this module, make sure you're not in a private server, since you can't join a private server when there's no server.
