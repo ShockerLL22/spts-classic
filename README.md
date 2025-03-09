@@ -16,6 +16,6 @@ When using this module, make sure you're not in a private server, since you can'
   <img src="https://github-readme-stats.vercel.app/api?username=ShockerLL22&show_icons=true" />
 </picture>
 
-<div style="background-color: #e6f7ff; border-left: 5px solid #007bff; padding: 10px; margin-top: 20px;">
-  <strong>Warning:</strong> This script has <strong>5 modules</strong> available.
-</div>
+## Modules Count
+
+> **🔵 This script has 5 modules available!**
