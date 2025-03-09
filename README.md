@@ -12,3 +12,5 @@ soon ill add grim exploit, when i get the stats lol, drop issues, suggestions, f
   />
   <img src="https://github-readme-stats.vercel.app/api?username=ShockerLL22&show_icons=true" />
 </picture>
+## 🖼 Showcase  
+![Script Showcase](image.png)  
