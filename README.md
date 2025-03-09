@@ -18,6 +18,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=ShockerLL22&show_icons=true" />
 </picture>
+
 # Latest Update Log : 
 > [!NOTE]  
 > - instead of smart made speed calculation 1.0x 1.2x 1.4x etc...
