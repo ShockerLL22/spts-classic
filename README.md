@@ -11,19 +11,8 @@ script loadstring
 > **This script has 17 physical modules available.**
 
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ShockerLL22&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ShockerLL22&show_icons=true"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=ShockerLL22&show_icons=true" />
-</picture>
-
 # Latest Update Log : 
 > [!NOTE]  
 > - added rainbow laser, rainbow name. change bits, a visual update
+> - enchanted webhook, rgb (kind of)
 
