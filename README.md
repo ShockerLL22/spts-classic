@@ -8,7 +8,7 @@ script loadstring
 
 ![spts-classic Image](https://raw.githubusercontent.com/ShockerLL22/spts-classic/refs/heads/main/image.png)
 > [!NOTE] 
-> **This script has 14 physical modules available.**
+> **This script has 17 physical modules available.**
 
 
 <picture>
@@ -25,6 +25,5 @@ script loadstring
 
 # Latest Update Log : 
 > [!NOTE]  
-> - instead of smart made speed calculation 1.0x 1.2x 1.4x etc...
-> - made fist strength farming faster, instead of 200 miliseconds which as wiki fastest, but its remote so it different.
-> - added auto recconect, for every error, it just rejoins, doesnt work in private servers, auto click spawn might bug sometime.
+> - added rainbow laser, rainbow name. change bits, a visual update
+
