@@ -1,10 +1,9 @@
 # spts-classic
 script loadstring for script for loadstring to script to loadstring : 
-
+![!](https://raw.githubusercontent.com/ShockerLL22/spts-classic/refs/heads/main/demo.png)
 > ```
 > loadstring(game:HttpGet("https://raw.githubusercontent.com/ShockerLL22/spts-classic/refs/heads/main/void.lua"))()
 > ```
-![alt text](https://raw.githubusercontent.com/ShockerLL22/spts-classic/refs/heads/main/demo.png)
 > [!CAUTION]
 > required ok amount of unc atleast the script to work.
 
