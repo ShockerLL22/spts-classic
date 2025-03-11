@@ -4,7 +4,7 @@ script loadstring for script for loadstring to script to loadstring :
 > ```
 > loadstring(game:HttpGet("https://raw.githubusercontent.com/ShockerLL22/spts-classic/refs/heads/main/void.lua"))()
 > ```
-
+https://raw.githubusercontent.com/ShockerLL22/spts-classic/refs/heads/main/demo.png
 > [!CAUTION]
 > required ok amount of unc atleast the script to work.
 
