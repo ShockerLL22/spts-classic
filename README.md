@@ -6,6 +6,7 @@
 
 > [!CAUTION]
 > required ok amount of unc atleast the script to work.
+> the secret module is very hated by people or any sort of auto kill!
 
 > [!WARNING]
 > Auto Recconect doesn't work on private servers.
@@ -20,8 +21,4 @@
 > - **This script is created for faster grinding, there are very low amount of scripts for this game, and abuse fun things.**
 # Latest Update Log : 
 > [!NOTE]  
-> - added auto kill tab  ( two both cool autokills you'll like.)
-> - added death body toughness grinding toggle.
-> - godmode exploit button
-> - small : body toughness no area farming
-> - fixes : auto quest not collecting for specefic quests.
+> - secret auto kill has been added, fixed physic power stop equiping tool when not found.
