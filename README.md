@@ -14,7 +14,7 @@
 > in order to hide the ui click on the keyboard left-ctrl!
 # Info : 
 > [!NOTE] 
-> - **This script has 24 physical modules available.**
+> - **This script has 25 physical modules available.**
 > - **This script is created for the game "Spts : Classic." ```https://www.roblox.com/games/2202352383/SPTS-Classic```**
 > - **This script is guranteed to be updated atleast once in a week.**
 > - **This script is created for faster grinding, there are very low amount of scripts for this game, and abuse fun things.**
