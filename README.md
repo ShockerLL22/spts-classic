@@ -5,7 +5,8 @@
 
 > [!CAUTION]
 > need atleast 85+ unc and sunc in order to run the script, here's demonstration of what happening if u dont have enough unc :
-> ![Caution Image](https://media.discordapp.net/attachments/1350749973339177142/1350752315161837568/image.png?ex=67d7e19f&is=67d6901f&hm=b00adf0876bab7fc875886e13cdba4bc18d2d6555cf063a094d816b7a7df86b4&=&format=webp&quality=lossless)
+> 
+> ![Caution Image](https://cdn.discordapp.com/attachments/1256668126620422235/1350753176071966791/image.png?ex=67d7e26c&is=67d690ec&hm=5ad3038eb6ce54dbfe306128699185bf7b653971d5e8289384e6a0a69ddeb89c&)
 
 > [!WARNING]
 > Auto Recconect doesn't work on private servers.
