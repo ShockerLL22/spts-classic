@@ -9,7 +9,7 @@
 > ![Caution Image](https://cdn.discordapp.com/attachments/1256668126620422235/1350753176071966791/image.png?ex=67d7e26c&is=67d690ec&hm=5ad3038eb6ce54dbfe306128699185bf7b653971d5e8289384e6a0a69ddeb89c&)
 
 > [!WARNING]
-> Auto Recconect doesn't work on private servers.
+> Update : Auto Reconnect does work in private servers! yours and your friend's, but not from a link!
 
 > [!TIP]
 > in order to hide the ui click on the keyboard left-ctrl!
