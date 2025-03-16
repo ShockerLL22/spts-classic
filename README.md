@@ -5,7 +5,8 @@
 
 > [!CAUTION]
 > required ok amount of unc atleast the script to work.
-> the secret module is very hated by people or any sort of auto kill!
+> [https://media.discordapp.net/attachments/1350749973339177142/1350752315161837568/image.png?ex=67d7e19f&is=67d6901f&hm=b00adf0876bab7fc875886e13cdba4bc18d2d6555cf063a094d816b7a7df86b4&=&format=webp&quality=lossless]
+
 
 > [!WARNING]
 > Auto Recconect doesn't work on private servers.
