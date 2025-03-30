@@ -2,6 +2,7 @@
 > ```
 > loadstring(game:HttpGet("https://raw.githubusercontent.com/ShockerLL22/spts-classic/refs/heads/main/void.lua"))()
 > ```
+
 > [!TIP]
 > in order to hide the ui click on the keyboard left-ctrl!
 # Info : 
