@@ -43,6 +43,19 @@ local Camera = Workspace.CurrentCamera
 local Storage = Workspace.Storage
 local PlaceId = game.PlaceId
 local JobId = game.JobId
+repeat wait() until game:IsLoaded() and game.Players and game.Players.LocalPlayer and game.Players.LocalPlayer.Character
+
+if getgenv().AntiAfkExecuted then 
+    getgenv().AntiAfkExecuted = false
+end
+
+getgenv().AntiAfkExecuted = true
+
+local virtualUser = game:service'VirtualUser'
+game:service'Players'.LocalPlayer.Idled:connect(function()
+    virtualUser:CaptureController()
+    virtualUser:ClickButton2(Vector2.new())
+end)
 PlayerGui.IntroGui:GetPropertyChangedSignal("Enabled"):Connect(function()
     PlayerGui.IntroGui.Enabled = false
 end)
