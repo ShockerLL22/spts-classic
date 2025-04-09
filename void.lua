@@ -333,7 +333,7 @@ FarmFSToggle:OnChanged(function(isOn)
 						hrp.CFrame = CFrame.new(tpMapping[selectedFS])
 					end
 				end
-				task.wait(0.0000001)
+				task.wait()
 			end
 		end)
 	end
@@ -378,7 +378,7 @@ FarmBTToggle:OnChanged(function(isOn)
 						end
 					end
 				end
-				task.wait(0.000001)
+				task.wait()
 			end
 		end)
 	end
@@ -426,7 +426,7 @@ DeathGrindingToggle:OnChanged(function(isOn)
 						player.Character.HumanoidRootPart.CFrame = CFrame.new(btLocations["Red Acid Pool"])
 					end
 				end
-				task.wait(0.0001)
+				task.wait()
 			end
 		end)
 	end
@@ -446,7 +446,7 @@ FarmJFToggle:OnChanged(function(isOn)
                 remote:FireServer(unpack(args1))
                 local args2 = { [1] = { [1] = "Weight", [2] = "Weight4" } }
                 remote:FireServer(unpack(args2))
-                task.wait(0.000001)
+                task.wait()
             end
         end)
     end
@@ -467,7 +467,7 @@ FarmMSToggle:OnChanged(function(isOn)
                 remote:FireServer(unpack(args1))
                 local args2 = { [1] = { [1] = "Weight", [2] = "Weight4" } }
                 remote:FireServer(unpack(args2))
-                task.wait(0.000001)
+                task.wait()
             end
         end)
     end
