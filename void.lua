@@ -24,7 +24,6 @@ local Camera = Workspace.CurrentCamera
 local Storage = Workspace.Storage
 local PlaceId = game.PlaceId
 local JobId = game.JobId
-RemoteEvent:FireServer({"ResetCharacter"})
 repeat wait() until game:IsLoaded() and game.Players and game.Players.LocalPlayer and game.Players.LocalPlayer.Character
 
 if getgenv().AntiAfkExecuted then 
