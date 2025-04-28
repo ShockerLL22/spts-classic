@@ -1,29 +1,32 @@
 
 -- https://github.com/ShockerLL22/spts-classic // created by @sky4zprm (dc)
 
-local ReplicatedStorage = Services.ReplicatedStorage
-local RemoteEvent = ReplicatedStorage.RemoteEvent
-local RemoteFunction = ReplicatedStorage.RemoteFunction
-local RunService = Services.RunService
-local UserInputService = Services.UserInputService
-local TeleportService = Services.TeleportService
-local HttpService = Services.HttpService 
-local TweenService = Services.TweenService
-local Lighting = Services.Lighting
-local Stats = Services.Stats
-local StarterGui = Services.StarterGui
-local VirtualUser = Services.VirtualUser
-local Workspace = Services.Workspace
-local CoreGui = Services.CoreGui
-local Players = Services.Players
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local RemoteEvent = ReplicatedStorage:WaitForChild("RemoteEvent")
+local RemoteFunction = ReplicatedStorage:WaitForChild("RemoteFunction")
+local RunService = game:GetService("RunService")
+local UserInputService = game:GetService("UserInputService")
+local TeleportService = game:GetService("TeleportService")
+local HttpService = game:GetService("HttpService")
+local TweenService = game:GetService("TweenService")
+local Lighting = game:GetService("Lighting")
+local Stats = game:GetService("Stats")
+local StarterGui = game:GetService("StarterGui")
+local VirtualUser = game:GetService("VirtualUser")
+local Workspace = game:GetService("Workspace")
+local CoreGui = game:GetService("CoreGui")
+local Players = game:GetService("Players")
+
 local LocalPlayer = Players.LocalPlayer
-local PrivateStats = LocalPlayer.PrivateStats
-local PlayerGui = LocalPlayer.PlayerGui
-local ScreenGui = PlayerGui.ScreenGui
+local PrivateStats = LocalPlayer:WaitForChild("PrivateStats")
+local PlayerGui = LocalPlayer:WaitForChild("PlayerGui")
+local ScreenGui = PlayerGui:WaitForChild("ScreenGui")
 local Camera = Workspace.CurrentCamera
-local Storage = Workspace.Storage
+local Storage = Workspace:WaitForChild("Storage")
 local PlaceId = game.PlaceId
 local JobId = game.JobId
+RemoteEvent:FireServer("ResetCharacter")
+
 repeat wait() until game:IsLoaded() and game.Players and game.Players.LocalPlayer and game.Players.LocalPlayer.Character
 
 if getgenv().AntiAfkExecuted then 
