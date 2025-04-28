@@ -1,25 +1,5 @@
 -- https://github.com/ShockerLL22/spts-classic // created by @sky4zprm (dc)
-local vim = game:GetService("VirtualInputManager")
-local player = game:GetService("Players").LocalPlayer
-local button = player:WaitForChild("PlayerGui"):WaitForChild("IntroGui"):FindFirstChild("PlayBtn")
 
-if button then
-    local screenGui = button.Parent
-    local screenSize = screenGui.AbsoluteSize
-    button.Size = UDim2.new(1, 0, 1, 0) 
-    button.Position = UDim2.new(0, 0, 0, 0)
-    button.ZIndex = 10 
-    local clickPos = Vector2.new(0, screenSize.Y / 2)
-    vim:SendMouseButtonEvent(clickPos.X, clickPos.Y, 0, true, game, 0)
-    task.wait(0.1)
-    vim:SendMouseButtonEvent(clickPos.X, clickPos.Y, 0, false, game, 0)
-end
-task.wait(1)
-local Services = setmetatable({}, {__index = function(self, Name)
-    local Service = cloneref(game:GetService(Name))
-    self[Name] = Service
-    return Service
-end})
 local ReplicatedStorage = Services.ReplicatedStorage
 local RemoteEvent = ReplicatedStorage.RemoteEvent
 local RemoteFunction = ReplicatedStorage.RemoteFunction
@@ -43,6 +23,7 @@ local Camera = Workspace.CurrentCamera
 local Storage = Workspace.Storage
 local PlaceId = game.PlaceId
 local JobId = game.JobId
+RemoteEvent:FireServer({"ResetCharacter"})
 repeat wait() until game:IsLoaded() and game.Players and game.Players.LocalPlayer and game.Players.LocalPlayer.Character
 
 if getgenv().AntiAfkExecuted then 
