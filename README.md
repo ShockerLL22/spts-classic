@@ -1,7 +1,6 @@
 # spts-classic
 > ```
 > loadstring(game:HttpGet("https://raw.githubusercontent.com/ShockerLL22/spts-classic/refs/heads/main/void.lua"))()
-
 > ```
 
 > [!NOTE] 
